@@ -4,7 +4,8 @@
         "movementType": "Land"
         "uniques": [
             "Can pass through impassable tiles", "Invisible to others",
-            "Can see invisible [Demon] units", "Can see invisible [Angel] units"
+            "Can see invisible [Demon] units", "Can see invisible [Angel] units",
+            "Hidden when religion is disabled", "Religious Unit",
         ]
     }
 ]
