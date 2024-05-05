@@ -1,10 +1,10 @@
 [
 	{
 		"name": "Exorcist",
-		"unitType": "Exorcist",
+		"unitType": "Civilian",
 		"uniques": [
             		"Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
-			"Hidden when religion is disabled", "Unbuildable", "Religious Unit", "Can see invisible [Spirit] units",
+			"Hidden when religion is disabled", "Unbuildable", "Religious Unit", "Can see invisible [Demon] units",
 		],
 		"movement": 2
 	},
@@ -12,7 +12,7 @@
 		"name": "Lycanthrope",
 		"unitType": "Civilian",
 		"uniques": [
-			"Hidden when religion is disabled", 
+			"Hidden when religion is disabled", "Religious Unit",
 		],
 		"movement": 2
 	}
