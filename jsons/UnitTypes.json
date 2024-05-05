@@ -5,7 +5,7 @@
         "uniques": [
             "Can pass through impassable tiles", "Invisible to others",
             "Can see invisible [Demon] units", "Can see invisible [Angel] units",
-            "Hidden when religion is disabled", "Religious Unit",
+            "Hidden when religion is disabled", "Religious Unit", "Uncapturable"
         ]
     }
 ]
