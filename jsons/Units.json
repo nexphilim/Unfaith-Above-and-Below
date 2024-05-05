@@ -1,17 +1,19 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"name": "Exorcist",
+		"unitType": "Exorcist",
+		"uniques": [
+            		"Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
+			"Hidden when religion is disabled", "Unbuildable", "Religious Unit", "Can see invisible [Spirit] units",
+		],
+		"movement": 2
+	},
+	{
+		"name": "Lycanthrope",
+		"unitType": "Civilian",
+		"uniques": [
+			"Hidden when religion is disabled", 
+		],
+		"movement": 2
 	}
 ]
