@@ -1,13 +1,10 @@
 [
     {
-		"name": "Castro",
-        "uniqueTo": "Mourama",
-		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle"],
-		"turnsToBuild": 6,
-        "culture": 1,
-        "maintenence": 1,
-		"techRequired": "Engineering",
-		"uniques": ["Can be built just outside your borders","Gives a defensive bonus of [50]%", "[+1 Production] from [Hill] tiles"],
-		"shortcutKey": "O"
+		"name": "Exorcism",
+		"uniques": [
+			"Can be built outside your borders",
+			"Adjacent [{enemy} {Demon}] units ending their turn take [999] damage",
+			"Remove [Exorcism] <after [1] turns>"
+		]
 	}
 ]
