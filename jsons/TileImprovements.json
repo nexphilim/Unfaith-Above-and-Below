@@ -4,7 +4,7 @@
 	  	"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": [
 			"Can be built outside your borders",
-			"Adjacent [{enemy} {Demon}] units ending their turn take [999] damage",
+			"Adjacent enemy units ending their turn take [999] damage",
 			"Remove [Exorcism] <after [1] turns>"
 		]
 	}
