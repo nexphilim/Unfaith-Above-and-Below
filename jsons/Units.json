@@ -3,9 +3,18 @@
 		"name": "Exorcist",
 		"unitType": "Civilian",
 		"uniques": [
-            		"Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
 			"Hidden when religion is disabled", "Unbuildable", "Religious Unit", "Can see invisible [Demon] units",
+			"Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
 			"Can instantly construct a [Exorcism] improvement <[2] times> <after which this unit is consumed>"
+		],
+		"movement": 2
+	},
+	{
+		"name": "Lesser Demon",
+		"unitType": "Demon",
+		"uniques": [
+			"Hidden when religion is disabled", "Religious Unit",
+			"Uncapturable <for units without [Shock I]>"
 		],
 		"movement": 2
 	},
