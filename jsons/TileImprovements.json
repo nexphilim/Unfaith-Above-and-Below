@@ -1,11 +1,4 @@
 [
-    {
-		"name": "Exorcism",
-	  	"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": [
-			"Can be built outside your borders",
-			"Adjacent enemy units ending their turn take [999] damage",
-			"Remove [Exorcism] <after [1] turns>"
-		]
+    	{
 	}
 ]
