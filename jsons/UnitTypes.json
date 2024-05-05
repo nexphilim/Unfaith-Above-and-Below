@@ -3,18 +3,16 @@
         "name": "Demon",
         "movementType": "Land"
         "uniques": [
-            "Can pass through impassable tiles", "Invisible to non-adjacent units",
             "Can see invisible [Demon] units", "Can see invisible [Angel] units",
-            "Hidden when religion is disabled", "Religious Unit", "Uncapturable"
+            "Hidden when religion is disabled", "Religious Unit"
         ]
     },
     {
         "name": "Angel",
         "movementType": "Land"
         "uniques": [
-            "Can pass through impassable tiles", "Invisible to non-adjacent units",
             "Can see invisible [Demon] units", "Can see invisible [Angel] units",
-            "Hidden when religion is disabled", "Religious Unit", "Uncapturable"
+            "Hidden when religion is disabled", "Religious Unit"
         ]
     }
 ]
