@@ -5,6 +5,7 @@
 		"uniques": [
             		"Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
 			"Hidden when religion is disabled", "Unbuildable", "Religious Unit", "Can see invisible [Demon] units",
+			"Can instantly construct a [Exorcism] improvement <[2] times> <after which this unit is consumed>"
 		],
 		"movement": 2
 	},
