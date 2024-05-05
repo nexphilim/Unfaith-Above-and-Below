@@ -4,17 +4,15 @@
 		"unitType": "Civilian",
 		"uniques": [
 			"Hidden when religion is disabled", "Unbuildable", "Religious Unit", "Can see invisible [Demon] units",
-			"Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
-			"Can instantly construct a [Exorcism] improvement <[2] times> <after which this unit is consumed>"
+			"Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]"
 		],
 		"movement": 2
 	},
 	{
-		"name": "Lesser Demon",
+		"name": "Abaddon",
 		"unitType": "Demon",
 		"uniques": [
-			"Hidden when religion is disabled", "Religious Unit",
-			"Uncapturable <for units without [Shock I]>"
+			"Can only be built", "Excess Food converted to Production when under construction",
 		],
 		"movement": 2
 	},
