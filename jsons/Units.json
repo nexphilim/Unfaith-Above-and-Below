@@ -12,7 +12,7 @@
 		"name": "Abaddon",
 		"unitType": "Demon",
 		"uniques": [
-			"Can pass through impassable tiles", "Invisible to non-adjacent units",
+			"Can pass through impassable tiles", "Invisible to others",
 			"Can only be built", "Excess Food converted to Production when under construction",
 			"Uncapturable",
 		],
