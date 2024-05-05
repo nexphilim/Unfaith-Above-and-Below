@@ -2,6 +2,9 @@
     {
         "name": "Demon",
         "movementType": "Land"
-        "uniques": ["Can pass through impassable tiles", "Invisible to others"]
+        "uniques": [
+            "Can pass through impassable tiles", "Invisible to others",
+            "Can see invisible [Demon] units", "Can see invisible [Angel] units"
+        ]
     }
 ]
