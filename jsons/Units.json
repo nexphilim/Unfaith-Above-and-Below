@@ -10,8 +10,8 @@
 	},
 	{
 		"name": "Abaddon",
-		"unitType": "Sword",
-		"strength": 5,
+		"unitType": "Demon",
+		"strength": 0,
 		"uniques": [
 			"Can pass through impassable tiles", "Invisible to others",
 			"Can only be built", "Excess Food converted to Production when under construction",
